@@ -1,6 +1,8 @@
 
 
-# idea插件
+# idea插件-->
+
+
 
 1. 设置背景图片：
    backgroundImagePlus
